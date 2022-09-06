@@ -14,23 +14,6 @@ Hey! I'm Lucian D. Crainic, a student currently living in Rome, Italy. I'm getti
 </div>
 </p>
 
-```python
-class LucianCrainic():
-    
-  def __init__(self):
-    self.name = "Lucian Dorin Crainic";
-    self.username = "Lucian";
-    self.location = "Rome, Italy";
-    self.twitter = "@abhigyantrips";
-    self.web = "https://abhigyantrips.dev";
-  
-  def __str__(self):
-    return self.name
-
-if __name__ == '__main__':
-    me = LucianCrainic()
-```
-
 ## My Statistics
 <br/>
 <p align="left">
