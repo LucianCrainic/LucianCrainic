@@ -9,7 +9,7 @@ Hey! I'm Lucian D. Crainic, a student currently living in Rome, Italy. I'm getti
 <p>
 </div> 
 <div align="center">
-  <img src="https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=Java&color=151515&logoColor=000&labelColor=f28a00">
+  <img src="https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java&color=151515&logoColor=000&labelColor=f28a00">
   <img src="https://img.shields.io/badge/-Node.JS-000?style=for-the-badge&logo=node.js&color=151515&logoColor=000&labelColor=f28a00">
   <img src="https://img.shields.io/badge/-Typescript-000?style=for-the-badge&logo=typescript&color=151515&logoColor=000&labelColor=f28a00">
 </div>
