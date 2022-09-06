@@ -1,10 +1,8 @@
 <h1 align="center">
-  <b>Abhigyan Trips</b>
+  <b>Lucian D. Crainic</b>
 </h1>
 
-Heya! I'm Abhigyan Tripathi, a student currently living in Mumbai, India. I'm preparing for 
-<a href="https://en.wikipedia.org/wiki/Joint_Entrance_Examination">JEE</a>, 
-and learning programming through small projects  on the side.
+Hey! I'm Lucian D. Crainic, a student currently living in Rome, Italy. I'm getting a BSc in Computer Science at La Sapienza Universituy and learning programming through small projects on the side.
 
 <br>
 
@@ -17,12 +15,12 @@ and learning programming through small projects  on the side.
 </p>
 
 ```python
-class AbhigyanTrips():
+class LucianCrainic():
     
   def __init__(self):
-    self.name = "Abhigyan Tripathi";
-    self.username = "abhigyantrips";
-    self.location = "Mumbai, India";
+    self.name = "Lucian Dorin Crainic";
+    self.username = "Lucian";
+    self.location = "Rome, Italy";
     self.twitter = "@abhigyantrips";
     self.web = "https://abhigyantrips.dev";
   
@@ -30,25 +28,10 @@ class AbhigyanTrips():
     return self.name
 
 if __name__ == '__main__':
-    me = AbhigyanTrips()
+    me = LucianCrainic()
 ```
 
-<div align="center">
-  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
-  </a>
-</div>
-
-<!--
-<div align="center">
-  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
-    <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
-  </a>
-</div>
--->
-
 ## My Statistics
-
 <br/>
 <p align="left">
   <a href="https://abhigyantrips.dev/">
@@ -60,8 +43,4 @@ if __name__ == '__main__':
 
 [![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhigyantrips&custom_title=Abhigyan%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
 
-------
-
-Credit: [abhigyantrips](https://github.com/abhigyantrips)
-
-Last Edited on: 24/12/2021
+Last Edited on: 06/09/2022
