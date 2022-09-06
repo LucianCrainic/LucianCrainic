@@ -24,6 +24,6 @@ Hey! I'm Lucian D. Crainic, a student currently living in Rome, Italy. I'm getti
 </p>
 <br>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=LucianCrainic&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=LucianCrainic&theme=gruvbox)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 Last Edited on: 06/09/2022
