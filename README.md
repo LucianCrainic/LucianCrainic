@@ -4,6 +4,8 @@
 
 Hey! I'm Lucian D. Crainic, a student currently living in Rome, Italy. I'm getting a BSc in Computer Science at La Sapienza Universituy and learning programming through small projects on the side.
 
+I am an independent, hardworking, responsible, trustworthy and ambitious student that really enjoys computer science. I am always ready to share my experience and learn from others.
+
 <br>
 
 <p>
