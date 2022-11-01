@@ -30,6 +30,6 @@ Hey! I'm Lucian D. Crainic, a student currently living in Rome, Italy. I'm getti
 </p>
 <br>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=LucianCrainic&hide_border=true&bg_color=151515&color=fff&line=E74C3C6&point=E74C3C)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=LucianCrainic&hide_border=true&bg_color=151515&color=fff&line=e74c3c6&point=c74c3c)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 Last Edited on: 06/09/2022
