@@ -22,10 +22,10 @@ Hey! I'm Lucian D. Crainic, a student currently living in Rome, Italy. I'm getti
 
 ## My Statistics
 <br/>
-<p align="left">
+<p align="center">
   <a href="https://abhigyantrips.dev/">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=luciancrainic&show_icons=true&theme=dark&hide_border=true&icon_color=507963"/>
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=luciancrainic&theme=dark&icon_color=e74c3c&hide_border=true" />
+ 
   </a>
 </p>
 <br>
