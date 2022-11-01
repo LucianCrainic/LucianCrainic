@@ -24,7 +24,7 @@ Hey! I'm Lucian D. Crainic, a student currently living in Rome, Italy. I'm getti
 <br/>
 <p align="left">
   <a href="https://abhigyantrips.dev/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=luciancrainic&show_icons=true&theme=dark&hide_border=true&icon_color=0000ff"/>
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=luciancrainic&show_icons=true&theme=dark&hide_border=true&icon_color=303de6"/>
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=luciancrainic&theme=dark&hide_border=true" />
   </a>
 </p>
