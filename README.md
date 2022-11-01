@@ -9,8 +9,8 @@ Hey! I'm Lucian D. Crainic, a student currently living in Rome, Italy. I'm getti
 <p>
 </div> 
 <div align="center">
-  <img src="https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&color=151515&logoColor=000&labelColor=f28a00">
-  <img src="https://img.shields.io/badge/-C-000?style=for-the-badge&logo=C&color=151515&logoColor=000&labelColor=f28a00">
+  <img src="https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&color=151515&logoColor=000&labelColor=303de6">
+  <img src="https://img.shields.io/badge/-C-000?style=for-the-badge&logo=C&color=151515&logoColor=000&labelColor=303de6">
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=html5&color=151515&logoColor=000&labelColor=f28a00">
