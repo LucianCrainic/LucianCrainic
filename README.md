@@ -27,9 +27,7 @@ I am an independent, hardworking, responsible, trustworthy and ambitious person 
 <br/>
 <p align="left">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=luciancrainic&show_icons=true&theme=dark&hide_border=true&icon_color=e74c3c"/>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=luciancrainic&hide=php&theme=dark">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciancrainic&hide=php&theme=dark" />
-</a>
+
  
   </a>
 </p>
