@@ -28,7 +28,7 @@ I am an independent, hardworking, responsible, trustworthy and ambitious person 
 <p align="center">
   <a href="https://abhigyantrips.dev/">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=luciancrainic&show_icons=true&theme=dark&hide_border=true&icon_color=e74c3c"/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luciancrainic)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luciancrainic&theme=tokyonight)
  
   </a>
 </p>
