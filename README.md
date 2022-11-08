@@ -23,16 +23,4 @@ I am an independent, hardworking, responsible, trustworthy and ambitious person 
   <img src="https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js&color=151515&logoColor=000&labelColor=e74c3c">
 </p>
 
-## My Statistics
-<br/>
-<p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=luciancrainic&show_icons=true&theme=dark&hide_border=true&icon_color=e74c3c"/>
-
- 
-  </a>
-</p>
-<br>
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=LucianCrainic&hide_border=true&bg_color=151515&color=fff&line=e74c3c&point=e74c3c)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 Last Edited on: 06/09/2022
