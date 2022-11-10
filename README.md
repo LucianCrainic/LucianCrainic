@@ -22,12 +22,9 @@ and learning programming through small projects on the side.
 </p>
 <h3>Projects i'm working on</h3> 
 <ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
+  <li>WASAPhoto : WASAPhoto Web Application for Web and Software Architecture exam project.</li>
+  <li>luciancrainic.github.io : Personal Website made with HTML/CSS and JavaScript.</li>
+  <li>MipsProgramming : Set of exercises for MIPS learning.</li>
 </ul>                                                                                                                    
-                                                                                                                      
-- WASAPhoto : WASAPhoto Web Application for Web and Software Architecture exam project. 
-- luciancrainic.github.io : Personal Website made with HTML/CSS and JavaScript. 
-- MipsProgramming : Set of exercises for MIPS learning.                                                                                                                                                                                                                                   
+                                                                                                                                                       
 Last Edited on: 10/11/2022
