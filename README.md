@@ -5,31 +5,36 @@
 Hey! I'm Lucian D. Crainic, a student currently living in Rome, Italy. I'm getting a BSc in Computer Science at La Sapienza University
 and learning programming through small projects on the side.
 
-<h3>Things I work with</h3>
+<h2>Things i work with</h2>
+<h3>Languages & Frameworks & Databases</h3>
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/-Python-45b8d8?style=flat-square&logo=python&logoColor=white" />
-  <img alt="C" src="https://img.shields.io/badge/-C-45b8d8?style=flat-square&logo=c&logoColor=white" />
-  <img alt="GO" src="https://img.shields.io/badge/-Go-45b8d8?style=flat-square&logo=go&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" /> 
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-14354C?style=flat-square&logo=python&logoColor=white" />
+  <img alt="GO" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white" /> 
+  <img alt="R" src="https://img.shields.io/badge/-R-00ADD8?style=flat-square&logo=r&logoColor=white" />
+  
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css3" src="https://img.shields.io/badge/-CSS3-007ACC?style=flat-square&logo=css3&logoColor=white" />
-  <img alt=JavaScript" src="https://img.shields.io/badge/-JavaScript-F9A03C?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />   
-  <img alt="MySql" src="https://img.shields.io/badge/-MySql-13aa52?style=flat-square&logo=mysql&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />                                     <img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-43853d?style=flat-square&logo=latex&logoColor=white%22" />  
-</p>
-<h2>Terminal</h2>
+  <img alt=JavaScript" src="https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="VueJS" src="https://img.shields.io/badge/-VueJS-35495E?style=flat-square&logo=vue.js&logoColor=white" />                                                                                                                 
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />  
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />    
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />                                     <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" />   
+  <img alt="Redis" src="https://img.shields.io/badge/-Redis-F80000?style=flat-square&logo=redis&logoColor=white" /> 
+</p>                                                                                                                 
+<h3>Terminal</h3>                                                                                           
  <p>
   <img alt="iterm2" src="https://img.shields.io/badge/-iterm2-000000?style=flat-square&logo=iterm2&logoColor=white" />
-  <img alt="starship" src="https://img.shields.io/badge/-starship-DD0B78?style=flat-square&logo=starship&logoColor=white" />                                 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />                                                 <img alt="vim" src="https://img.shields.io/badge/-vim-43853d?style=flat-square&logo=vim&logoColor=white" /> 
+  <img alt="starship" src="https://img.shields.io/badge/-starship-DD0B78?style=flat-square&logo=starship&logoColor=white" />                                 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />                                                 <img alt="neovim" src="https://img.shields.io/badge/-Neovim-43853d?style=flat-square&logo=neovim&logoColor=white" /> 
   <img alt="tmux" src="https://img.shields.io/badge/-tmux-1BB91F?style=flat-square&logo=tmux&logoColor=white" /> 
-</p>                                                                                                            
-<h3>Projects i'm working on</h3> 
+</p>                                                            
+<h2>Projects i'm working on</h2> 
 <ul>
   <li>WASAPhoto : WASAPhoto Web Application for Web and Software Architecture exam project.</li>
   <li>luciancrainic.github.io : Personal Website made with HTML/CSS and JavaScript.</li>
   <li>MipsProgramming : Set of exercises for MIPS learning.</li>
 </ul>                                                                                                                    
                                                                                                                                                        
-Last Edited on: 10/11/2022
+
