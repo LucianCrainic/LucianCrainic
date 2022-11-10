@@ -5,8 +5,6 @@
 Hey! I'm Lucian D. Crainic, a student currently living in Rome, Italy. I'm getting a BSc in Computer Science at La Sapienza University
 and learning programming through small projects on the side.
 
-I am an independent, hardworking, responsible, trustworthy and ambitious person that really enjoys computer science. I am always ready to share my experience and learn from others.
-
 <h3>Things I code with</h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-45b8d8?style=flat-square&logo=python&logoColor=white" />
@@ -22,6 +20,8 @@ I am an independent, hardworking, responsible, trustworthy and ambitious person 
   <img alt="MySql" src="https://img.shields.io/badge/-JavaScript-45b8d8?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />                                                                                                               
 </p>
-                                                                                                                                                                                                                                           
-
-Last Edited on: 06/09/2022
+<h3>Projects i'm working on</h3>           
+- WASAPhoto : WASAPhoto Web Application for Web and Software Architecture exam project. 
+- luciancrainic.github.io : Personal Website made with HTML/CSS and JavaScript. 
+- MipsProgramming : Set of exercises for MIPS learning.                                                                                                                                                                                                                                   
+Last Edited on: 10/11/2022
