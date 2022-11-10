@@ -20,7 +20,13 @@ and learning programming through small projects on the side.
   <img alt="MySql" src="https://img.shields.io/badge/-JavaScript-45b8d8?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />                                                                                                               
 </p>
-<h3>Projects i'm working on</h3>           
+<h3>Projects i'm working on</h3> 
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>                                                                                                                    
+                                                                                                                      
 - WASAPhoto : WASAPhoto Web Application for Web and Software Architecture exam project. 
 - luciancrainic.github.io : Personal Website made with HTML/CSS and JavaScript. 
 - MipsProgramming : Set of exercises for MIPS learning.                                                                                                                                                                                                                                   
