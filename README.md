@@ -10,16 +10,12 @@ and learning programming through small projects on the side.
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-14354C?style=flat-square&logo=python&logoColor=white" />
   <img alt="GO" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-  <img alt="C" src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white" /> 
-  <img alt="R" src="https://img.shields.io/badge/-R-00ADD8?style=flat-square&logo=r&logoColor=white" />
   
-  <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css3" src="https://img.shields.io/badge/-CSS3-007ACC?style=flat-square&logo=css3&logoColor=white" />
   <img alt=JavaScript" src="https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="VueJS" src="https://img.shields.io/badge/-VueJS-35495E?style=flat-square&logo=vue.js&logoColor=white" />                                                                                                                 
+  <img alt="VueJS" src="https://img.shields.io/badge/-VueJS-35495E?style=flat-square&logo=vue.js&logoColor=white" />                                                                                                 
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />  
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />    
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />                                     <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" />   
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-F80000?style=flat-square&logo=redis&logoColor=white" /> 
