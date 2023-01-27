@@ -1,9 +1,9 @@
 <h1 align="center">
   <p align="center">
-    <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=LucianCrainic&data=followers,repositories,stars,commits&theme=nautilus" alt="GitHub WidgetBox" />
+    <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=LucianCrainic&data=followers,repositories,stars,commits&theme=darkmode" alt="GitHub WidgetBox" />
   </a>
-    <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?frameworks=react,vue,bootstrap,flutter,tailwind&tools=git,docker,npm,mongodb,nodejs,jupyter&includeNames=true&theme=nautilus" alt="GitHub WidgetBox" />
-    <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?names=python,go,java,c,html,css,js,mysql,markdown,json,yaml,bash&includeNames=true&theme=nautilus" alt="GitHub WidgetBox" />
+    <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?frameworks=react,vue,bootstrap,flutter,tailwind&tools=git,docker,npm,mongodb,nodejs,jupyter&includeNames=true&theme=darkmode" alt="GitHub WidgetBox" />
+    <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?names=python,go,java,c,html,css,js,mysql,markdown,json,yaml,bash&includeNames=true&theme=darkmode" alt="GitHub WidgetBox" />
   </a>
 </p>
 </h1>
