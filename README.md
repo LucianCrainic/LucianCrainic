@@ -1,29 +1,16 @@
 <h1 align="center">
-  <b>Lucian D. Crainic</b>
+  <p align="center">
+  <a href="https://github.com/Jurredr/github-widgetbox">
+    <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=LucianCrainic&data=followers,repositories,stars,commits&theme=aether" alt="GitHub WidgetBox" />
+  </a>
+  <a href="https://github.com/Jurredr/github-widgetbox">
+          <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?frameworks=react,vue,bootstrap,flutter,tailwind&tools=git,docker,npm,mongodb,nodejs,jupyter&includeNames=true&theme=aether" alt="GitHub WidgetBox" />
+    <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?names=python,go,java,c,html,css,js,mysql,markdown,json,yaml,bash&includeNames=true&theme=aether" alt="GitHub WidgetBox" />
+  </a>
+</p>
 </h1>
 
-Hey! I'm Lucian D. Crainic, a student currently living in Rome, Italy. I'm getting a BSc in Computer Science at La Sapienza University
-and learning programming through small projects on the side.
+Hi! I’m Lucian D. Crainic, a Computer Science student at La Sapienza University. I’m a hard-working, passionate person who believes in the importance of education and accessibility to technological advancements.
 
-I am an independent, hardworking, responsible, trustworthy and ambitious person that really enjoys computer science. I am always ready to share my experience and learn from others.
-
-<br>
-
-<p>
-</div> 
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">
-</div
-Last Edited on: 06/09/2022
-
-                                                                                                                  
-                                                                                                                                                       
- 	
+I’ve always been passionate about learning new things, whether reading a book or watching a movie—I just can’t get enough of it! My most extensive interests include virtual reality, AI, Data Science and more no matter what I’m doing at school or working on in my free time, you’ll always find me surrounded by books and computers.
+                                                                                                                                                                                                                                          
