@@ -1,14 +1,19 @@
 <h1 align="center">
   <p align="center">
     <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=LucianCrainic&data=followers,repositories,stars,commits&theme=darkmode" alt="GitHub WidgetBox" />
-  </a>
-    <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?frameworks=react,vue,bootstrap,flutter,tailwind&tools=git,docker,npm,mongodb,nodejs,jupyter&includeNames=true&theme=darkmode" alt="GitHub WidgetBox" />
-    <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?names=python,go,java,c,html,css,js,mysql,markdown,json,yaml,bash&includeNames=true&theme=darkmode" alt="GitHub WidgetBox" />
-  </a>
 </p>
 </h1>
 
-Hi! I’m Lucian D. Crainic, a Computer Science student at La Sapienza University. I’m a hard-working, passionate person who believes in the importance of education and accessibility to technological advancements.
+<p align="center">
+Computer Science Student at <a href="https://www.uniroma1.it/en/">Sapienza University</a>. Passionate about Nature⛰️, Computing🖥️ and Photography📸  
+</p>
 
-I’ve always been passionate about learning new things, whether reading a book or watching a movie—I just can’t get enough of it! My most extensive interests include virtual reality, AI, Data Science and more no matter what I’m doing at school or working on in my free time, you’ll always find me surrounded by books and computers.
-                                                                                                                                                                                                                                          
+<p align="center">
+  <a href="https://luciancrainic.github.io/" target="_blank">Personal Website</a> •
+  <a href="https://www.linkedin.com/in/lucian-dorin-crainic-705510183/" target="_blank">LinkedIn</a> •
+  <a href="https://twitter.com/luciancrainic" target="_blank">Twitter</a> •
+  <a href="https://instagram.com/luciancrainic" target="_blank">Instagram</a> •
+  <a href="https://www.youtube.com/@luciancrainic" target="_blank">YouTube</a> •
+  <a href="https://leetcode.com/luciancrainic/" target="_blank">LeetCode</a> •
+</p>
+                                       
