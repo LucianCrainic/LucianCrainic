@@ -1,9 +1,3 @@
-<h1 align="center">
-  <p align="center">
-    <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=LucianCrainic&data=followers,repositories,stars,commits&theme=darkmode" alt="GitHub WidgetBox" />
-</p>
-</h1>
-
 <p align="center">
 Computer Science Student at <a href="https://www.uniroma1.it/en/">Sapienza University</a>. Passionate about Nature⛰️, Computing🖥️ and Photography📸  
 </p>
