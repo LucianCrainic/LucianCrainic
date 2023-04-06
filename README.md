@@ -1,5 +1,7 @@
 <p align="center">
-Computer Science Student at <a href="https://www.uniroma1.it/en/">Sapienza University</a>. Passionate about Nature⛰️, Computing🖥️ and Photography📸  
+Computer Science Student at <a href="https://www.uniroma1.it/en/">La Sapienza University</a>
+<br>
+Passionate about Nature⛰️,Computing🖥️ and Photography📸  
 </p>
 
 <p align="center">
@@ -8,6 +10,6 @@ Computer Science Student at <a href="https://www.uniroma1.it/en/">Sapienza Unive
   <a href="https://twitter.com/luciancrainic" target="_blank">Twitter</a> •
   <a href="https://instagram.com/luciancrainic" target="_blank">Instagram</a> •
   <a href="https://www.youtube.com/@luciancrainic" target="_blank">YouTube</a> •
-  <a href="https://leetcode.com/luciancrainic/" target="_blank">LeetCode</a> •
+  <a href="https://leetcode.com/luciancrainic/" target="_blank">LeetCode</a>
 </p>
                                        
