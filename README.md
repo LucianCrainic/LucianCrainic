@@ -1,5 +1,5 @@
 <p align="center">
-Computer Science Student at <a href="https://www.uniroma1.it/en/">La Sapienza University</a>
+Computer Science Student at <a href="https://www.uniroma1.it/en/">La Sapienza University of Rome</a>
 <br>
 Passionate about Nature⛰️,Computing🖥️ and Photography📸  
 </p>
