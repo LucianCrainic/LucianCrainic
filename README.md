@@ -1,5 +1,5 @@
 <p align="center">
-Computer Science Student at <a href="https://www.uniroma1.it/en/">La Sapienza University of Rome</a>
+Computer Science graduate aiming for a Master's in Data Science. Exploring the intersection of technology and analytics.
 <br>
 Passionate about Nature⛰️,Computing🖥️ and Photography📸  
 </p>
