@@ -1,7 +1,7 @@
 <p align="center">
-Computer Science graduate aiming for a Master's in Data Science. Exploring the intersection of technology and analytics.
+Computer Science graduate aiming for a Master's in Data Science
 <br>
-Passionate about Nature⛰️,Computing🖥️ and Photography📸  
+Passionate about Nature⛰️,Computing🖥️ and Photography📸
 </p>
 
 <p align="center">
