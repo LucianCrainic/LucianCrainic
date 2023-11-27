@@ -1,5 +1,5 @@
 <p align="center">
-Computer Science graduate aiming for a Master's in Data Science
+Computer Science graduate @ La Sapienza University
 <br>
 Passionate about Nature⛰️,Computing🖥️ and Photography📸
 </p>
