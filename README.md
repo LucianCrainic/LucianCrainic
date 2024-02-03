@@ -1,5 +1,5 @@
 <p align="center">
-<b>Software Engineer @ ELT Group</b>
+Software Engineer @ ELT Group
 <br>
 Computer Science @ La Sapienza University
 <br>
