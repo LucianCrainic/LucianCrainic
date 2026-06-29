@@ -1,5 +1,5 @@
 <p align="center">
-Software Engineer @ ELT Group
+Engineer @ ELT Group
 <br>
 BSc and MSc in Computer Science @ La Sapienza University
 <br>
